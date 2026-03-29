@@ -12,15 +12,6 @@ Chile, China, Germany, Mexico, United States, Zimbabwe
 - How has this relationship changed over time?
 - Which countries show the strongest / weakest correlation?
  
-## Setup
-```bash
-git clone https://github.com/<you>/life-expectancy-gdp-analysis.git
-cd life-expectancy-gdp-analysis
-python -m venv env && source env/bin/activate
-pip install -r requirements.txt
-jupyter notebook
-```
- 
 ## Data Sources
 - World Health Organization (WHO)
 - World Bank GDP data
